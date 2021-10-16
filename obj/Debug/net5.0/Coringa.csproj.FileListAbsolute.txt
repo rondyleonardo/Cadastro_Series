@@ -1,0 +1,16 @@
+C:\Users\f87621c\myApp\Coringa\bin\Debug\net5.0\Coringa.exe
+C:\Users\f87621c\myApp\Coringa\bin\Debug\net5.0\Coringa.deps.json
+C:\Users\f87621c\myApp\Coringa\bin\Debug\net5.0\Coringa.runtimeconfig.json
+C:\Users\f87621c\myApp\Coringa\bin\Debug\net5.0\Coringa.runtimeconfig.dev.json
+C:\Users\f87621c\myApp\Coringa\bin\Debug\net5.0\Coringa.dll
+C:\Users\f87621c\myApp\Coringa\bin\Debug\net5.0\ref\Coringa.dll
+C:\Users\f87621c\myApp\Coringa\bin\Debug\net5.0\Coringa.pdb
+C:\Users\f87621c\myApp\Coringa\obj\Debug\net5.0\Coringa.csproj.AssemblyReference.cache
+C:\Users\f87621c\myApp\Coringa\obj\Debug\net5.0\Coringa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f87621c\myApp\Coringa\obj\Debug\net5.0\Coringa.AssemblyInfoInputs.cache
+C:\Users\f87621c\myApp\Coringa\obj\Debug\net5.0\Coringa.AssemblyInfo.cs
+C:\Users\f87621c\myApp\Coringa\obj\Debug\net5.0\Coringa.csproj.CoreCompileInputs.cache
+C:\Users\f87621c\myApp\Coringa\obj\Debug\net5.0\Coringa.dll
+C:\Users\f87621c\myApp\Coringa\obj\Debug\net5.0\ref\Coringa.dll
+C:\Users\f87621c\myApp\Coringa\obj\Debug\net5.0\Coringa.pdb
+C:\Users\f87621c\myApp\Coringa\obj\Debug\net5.0\Coringa.genruntimeconfig.cache
